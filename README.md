@@ -6,18 +6,19 @@ This repository brings together the projects I completed during my ApexPlanet Da
 
 ## Internship Projects
 
+## Internship Projects
+
 ### Task 1: Data Wrangling
-Project: Data Cleaning and Data Wrangling
+[View Task 1 Repository](https://github.com/vineetgkp7607-dotcom/ApexPlanet-Task-1-Data-Wrangling)
 
 ### Task 2: Exploratory Data Analysis & Business Intelligence
-Project: EDA and BI Analysis
+[View Task 2 Repository](https://github.com/vineetgkp7607-dotcom/ApexPlanet-Task-2-EDA-BI)
 
 ### Task 3: Deep Dive Dashboard
-Project: Sales Analysis, KPI Calculation and Customer Segmentation
+[View Task 3 Repository](https://github.com/vineetgkp7607-dotcom/ApexPlanet_Task_3_Deep_Dive_Dashboard)
 
 ### Task 4: Data Storytelling
-Project: Hypothesis Testing and Business Insights
-
+[View Task 4 Repository](https://github.com/vineetgkp7607-dotcom/ApexPlanet_Task_4_Data_Storytelling)
 ## Technical Skills
 
 - Python
